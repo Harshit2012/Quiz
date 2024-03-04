@@ -15,3 +15,6 @@ This interactive quiz website is built using HTML, CSS, and JavaScript, offering
 - JavaScript
 ## Preview:
 ![Screenshot (19)](https://github.com/Harshit2012/Quiz/assets/105143145/b0bb111a-ed87-4116-97a3-bf435c387734)
+
+## Try it out
+Try this website by clicking [here](https://harshit2012.github.io/Quiz/)
